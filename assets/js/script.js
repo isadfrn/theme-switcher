@@ -1,7 +1,7 @@
 function addIcon(childName, imageName) {
   let image = document.createElement('img');
   image.className = `icon ${imageName}`;
-  image.src = `./assets/images/${imageName}.svg`;
+  image.src = `./assets/img/${imageName}.svg`;
   childName.appendChild(image);
 }
 

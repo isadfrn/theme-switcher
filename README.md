@@ -4,7 +4,7 @@
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/theme-switcher?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isadfrn/theme-switcher?style=flat-square)
 
-![](./assets/images/demo.gif)
+![](./assets/img/demo.gif)
 
 ## About
 
